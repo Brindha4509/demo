@@ -1,5 +1,5 @@
 class main{
     fuction main(){
-        print("Hello World");
+        print("Hello Worldertyuio");
     }
 }
