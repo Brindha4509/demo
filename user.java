@@ -1,5 +1,5 @@
 class main{
-    fuction main(){
-        print("Hello Worldertyuio");
+    public static void main(){
+        System.out.println("Hello Worldertyuio");
     }
 }
